@@ -1,0 +1,12 @@
+*.dat
+*.chi
+*.chiall
+*.freqs
+*.gfreqs
+*.restart
+*.f90~
+*.g0
+*.gall
+*.rhoall
+*.en
+*.mod
